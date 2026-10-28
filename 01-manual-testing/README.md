@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MiniMart — Manual Testing
 
 ## 1. Project Overview
@@ -55,6 +54,3 @@ The testing focuses on:
 ## 6. Limitations
 
 This project uses simulated test results based on a defined scenario. The findings have not been verified against a live application.
-=======
-# qa-portofolio
->>>>>>> a351cac623dbc9855afcf0bf7fadd8dfb484b00f
