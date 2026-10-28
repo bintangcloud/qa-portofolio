@@ -1,8 +1,8 @@
-# MiniMart — Manual Testing
+# MyKopDes — Manual Testing
 
 ## 1. Project Overview
 
-**Project:** MiniMart Shopping Cart  
+**Project:** MyKopDes Shopping Cart  
 **Testing Type:** Manual Testing  
 **Feature:** Add product to cart  
 **Objective:** Verify that users cannot add products beyond the available stock.
@@ -50,7 +50,3 @@ The testing focuses on:
 - Failed: 2
 
 **Conclusion:** The simulated application does not consistently enforce stock restrictions. The failed scenarios should be investigated and retested after the issue is fixed.
-
-## 6. Limitations
-
-This project uses simulated test results based on a defined scenario. The findings have not been verified against a live application.
